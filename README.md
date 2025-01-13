@@ -1,28 +1,17 @@
-# Hi, I'm Jhens 🖖 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width=25> 
+# Hi, I'm Jhens <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width=25> 
 
 [![Linkedin](https://img.shields.io/static/v1?label=&message=Linkedin&color=0E7FBF&&&style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jhensimanel/)
 
 🔗 &nbsp;**Connect with me**
 <p align="left">
-<a href="https://discordapp.com/channels/@me/itsme_shibintmz#0009/">
-  <img align="left" alt="Shibin's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
-</a>
 <a href="https://www.instagram.com/itsme_shibintmz/">
   <img align="left" alt="Shibin's Instagram" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" />
 </a>
 <a href="https://open.spotify.com/user/cel9za9j8u6619mx74lmopapg">
   <img align="left" alt="Shibin's Spotify" width="22px" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/spotify.svg" />
 </a>
-<a href="https://www.linkedin.com/in/shibin-thomas-343615206">
-  <img align="left" alt="Shibin's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
-<a href="https://stackoverflow.com/users/11188203/shibin-thomas" target="_blank" rel="noreferrer" ><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="22px" align="left" />
-</a>
 <a href="https://steamcommunity.com/profiles/76561199031932477/"> 
   <img align="left" alt="Steam" width="22px" src="https://github.com/itsmeshibintmz/itsmeshibintmz/blob/main/icons/steam-icon-14883.png" />
-</a>
-<a href="https://www.youtube.com/channel/UCTm_fmEE-cRBjyqM_noDEZA">
-  <img align="left" alt="Shibin's YouTube" width="22px" src="https://github.com/peterthehan/peterthehan/blob/main/assets/youtube.svg" />
 </a>
 
 <br />
@@ -34,12 +23,12 @@
 <br><br/>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Tech%20Enthusiast;Cafephile;Always%20learning%20new%20things;Evolving&center=true&width=500&height=50"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Bachelor's+Systems+Enginnering;Tech%20Enthusiast;Cafephile;Always%20learning%20new%20things;Evolving&center=true&width=500&height=50"></a>
 </p>
 
-Hi, I'm [Shibin Thomas](https://github.com/itsmeshibintmz), a passionate self-taught web developer and tech enthusiast from India. My passion for software lies in dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
+Hi, I'm [Jhens Imanel](https://github.com/JhensImanel), a passionate self-taught web developer and tech enthusiast from India. My passion for software lies in dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
 
-I'm 24 years old and graduated with a degree in Bachelor of Computer Applications at [St.George's College](https://www.sgcaruvithura.ac.in/public/course-details.html?id=bkVDd0pXUEdHTVc5V1RlVk9vSG80dz09"). 
+I'm 24 years old and graduated with a degree in Bachelor of Computer Applications at [University Technological of Peru](https://www.sgcaruvithura.ac.in/public/course-details.html?id=bkVDd0pXUEdHTVc5V1RlVk9vSG80dz09"). 
 
 I'm also an open-source enthusiast. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
               
@@ -49,8 +38,6 @@ I'm also an open-source enthusiast. I learned a lot from the open-source communi
 # 🛠 **&nbsp;languages and tools:** 
 <i>Tools, languages, and other things that I like to work with.</i> 
 
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" height="30" alt="C" /></a>
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" height="30" alt="C++" /></a>
 <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" height="30" alt="CSS3" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" height="30" alt="HTML5" /></a>
 <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" height="30" alt="Java" /></a>
@@ -106,20 +93,8 @@ YAML       24 mins         ████▒░░░░░░░░░░░░�
 
 <a href="http://www.github.com/itsmeshibintmz"><img src="https://github-readme-streak-stats.herokuapp.com/?user=itsmeshibintmz&stroke=ffffff&background=000000&ring=0891b2&fire=FF0000&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=false" /></a>
 
-<!--
-  ---
--->
-### Support Me
-
-if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
-
-<a href="https://www.buymeacoffee.com/itsmeshibintmz"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
   
 ## Contribution Graph
-  <br/>
-   <a href="https://github.com/itsmeshibintmz"><img alt="Shibin's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=itsmeshibintmz&custom_title=Shibin'%20Thomas's%20Contribution%20Graph&theme=react-dark" /></a>
-  <br/>
-
 <br/>
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/itsmeshibintmz/itsmeshibintmz/8c4c442a1c6a6c7b963e5d473e5aec52c42b5ea3/github-contribution-grid-snake-sissa.svg#gh-dark-mode-only)
@@ -165,12 +140,6 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
 ## Volunteering
 
-<img align="right" width="50px" src="https://www.pngkey.com/png/full/247-2479287_nss-logo-national-service-scheme-logo-png.png" />
-
-- 👨‍💻 **&nbsp;Volunteer Secretary**\
-📆 &nbsp;2019 - 2020\
-📍 **&nbsp;National Service Scheme** - St.George's College Aruvithura, Kerala
-
 <img align="right" width="50px" src="https://github.com/itsmeshibintmz/itsmeshibintmz/blob/main/icons/palliative.webp" />
 
 - 👨‍💻 **&nbsp;Volunteer**\
@@ -185,7 +154,6 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 <br>
 <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" />
-
 <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
 <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
@@ -199,25 +167,5 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" />
 <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" />
-
 <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white" />
-
-
-</details>
-  
-<details>
-  <summary><b>📈&nbsp;&nbsp;Language&nbsp;/&nbsp;Framework stats</b></summary>
-  <br/>
-  <a href='https://profile.codersrank.io/user/itsmeshibintmz/'>
-  <img src='https://cr-skills-chart-widget.azurewebsites.net/api/api?username=itsmeshibintmz&padding=30&skills=angular,html,json,java,javascript,less,mysql,php,pandas,perl,python,reactjs,scss,shell,svelte,swift,typescript,vue'>
-  </a>
-
-</details>
-
-<details>
-    <summary><b>📈&nbsp;&nbsp;Activity History</b></summary>
-  <br>
-  <a href='https://profile.codersrank.io/user/itsmeshibintmz/'>
-    <img src='https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=activity&username=itsmeshibintmz'>
-  </a>
 </details>
