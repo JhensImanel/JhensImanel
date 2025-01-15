@@ -25,25 +25,25 @@ I'm also an open-source enthusiast. I learned a lot from the open-source communi
 
 ## Work Experience
 
-<img align="right" width="50px" src="https://github.com/jhensimanel/jhensimanel/blob/main/icons/tcs.svg" />
+<img align="right" width="50px" src="https://github.com/JhensImanel/JhensImanel/tree/main/icons/devdatep_logo.png" />
 
 - 📖 **&nbsp;Front End Developer Jr.**\
 📆 &nbsp;2024-Present\
 📍 **&nbsp;Devdatep Consulting** - Lima, Peru
 
-<img align="right" width="50px" src="https://github.com/jhensimanel/jhensimanel/blob/main/icons/ifix.webp" />
+<img align="right" width="50px" src="https://github.com/JhensImanel/JhensImanel/tree/main/icons/synopsis_logo.png" />
 
 - 📖 **&nbsp;Trainee Program**\
 📆 &nbsp;2024-2024\
 📍 **&nbsp;Synopsis S.A.** - Lima, Peru
 
-<img align="right" width="50px" src="https://github.com/jhensimanel/jhensimanel/blob/main/icons/ifix.webp" />
+<img align="right" width="50px" src="https://github.com/JhensImanel/JhensImanel/tree/main/icons/sixth_system.webp" />
 
 - 📖 **&nbsp;Trainee Angular**\
 📆 &nbsp;2023-2023\
 📍 **&nbsp;Sixth System** - Lima, Peru
 
-<img align="right" width="50px" src="https://github.com/jhensimanel/jhensimanel/blob/main/icons/ifix.webp" />
+<img align="right" width="50px" src="https://github.com/jhensimanel/jhensimanel/blob/main/icons/hodelpe_logo.png" />
 
 - 📖 **&nbsp;Tech Support**\
 📆 &nbsp;2023-2023\
@@ -51,19 +51,19 @@ I'm also an open-source enthusiast. I learned a lot from the open-source communi
 
 ## Education
 
-<img align="right" width="50px" src="https://github.com/jhensimanel/jhensimanel/blob/main/icons/sgc.png" />
+<img align="right" width="50px" src="https://github.com/jhensimanel/jhensimanel/blob/main/icons/university_logo.png" />
 
 - 📖 **&nbsp;Bachelor of Systems and Informatic**\
 📆 &nbsp;2018 - 2023\
 📍 **&nbsp;University Technology of Peru S.A.C.** - Lima, Peru
 
-<img align="right" width="50px" src="https://github.com/jhensimanel/jhensimanel/blob/main/icons/cms.png" />
+<img align="right" width="50px" src="https://github.com/jhensimanel/jhensimanel/blob/main/icons/idat_logo.png" />
 
 - 📖 **&nbsp;Back End Developer Program**\
 📆 &nbsp;2024 - 2024\
 📍 **IDAT** - Lima, Peru
 
-<img align="right" width="50px" src="https://github.com/jhensimanel/jhensimanel/blob/main/icons/ihrd.png" />
+<img align="right" width="50px" src="https://github.com/JhensImanel/JhensImanel/tree/main/icons/devdatep_logo.png" />
 
 - 📖 **&nbsp;English Intermediate**\
 📆 &nbsp;2023 - Present\
@@ -71,7 +71,7 @@ I'm also an open-source enthusiast. I learned a lot from the open-source communi
 
 ## Volunteering
 
-<img align="right" width="50px" src="https://github.com/jhensimanel/jhensimanel/blob/main/icons/palliative.webp" />
+<img align="right" width="50px" src="https://github.com/JhensImanel/JhensImanel/tree/main/icons/ccffaa_logo.png" />
 
 - 👨‍💻 **&nbsp;Volunteer**\
 📆 &nbsp; 2024\
@@ -104,9 +104,3 @@ I'm also an open-source enthusiast. I learned a lot from the open-source communi
 <p align='center'><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhensimanel&show_icons=true&&line_height=25&width=20&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=000000&layout=compact" alt="jhensimanel" /> <img src="https://github-readme-stats-itsmeshibintmz.vercel.app/api?username=jhensimanel&show_icons=true&&line_height=25&width=20&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=000000&layout=compact" alt="jhensimanel" /> 
 </p>
 </p>
-
-## Contribution Graph
-<br/>
-
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=jhensimanel&label=Profile%20views&color=blueviolet&style=flat" alt="Jhens Imanel" /> </p>
