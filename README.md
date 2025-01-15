@@ -85,15 +85,6 @@ I'm also an open-source enthusiast. I learned a lot from the open-source communi
 
 
 # 🛠 **&nbsp;Languages and tools:** 
-<i>Tools, languages, and other things that I like to work with.</i> 
-<br>
-<img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-<img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
-<br>
-<br>
 
 <p align='center'>
   💻 &nbsp;My workspace<br/><br/>
@@ -104,17 +95,18 @@ I'm also an open-source enthusiast. I learned a lot from the open-source communi
   <img alt="ssd" src="https://img.shields.io/badge/930%20GB%20SSD-grey?style=for-the-badge" />
   <img alt="hdd" src="https://img.shields.io/badge/931%20GB%20HDD-grey?style=for-the-badge" />
 </p>
-<br></br>
+<br>
 
+<p align='center'>
 📈 &nbsp; My Github Stats <br></br>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jhensimanel&theme=darkhub&margin-w=15&margin-h=15&coloumn=3&row=1" alt="jhensimanel" /></a> </p>
 
-<p> <img src="https://github-readme-stats-itsmeshibintmz.vercel.app/api?username=jhensimanel&show_icons=true&&line_height=25&width=20&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=000000" alt="jhensimanel" /> 
+<p align='center'><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhensimanel&show_icons=true&&line_height=25&width=20&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=000000&layout=compact" alt="jhensimanel" /> <img src="https://github-readme-stats-itsmeshibintmz.vercel.app/api?username=jhensimanel&show_icons=true&&line_height=25&width=20&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=000000&layout=compact" alt="jhensimanel" /> 
+</p>
+</p>
 
 ## Contribution Graph
 <br/>
 
-![github contribution grid snake animation](https://raw.githubusercontent.com/itsmeshibintmz/itsmeshibintmz/8c4c442a1c6a6c7b963e5d473e5aec52c42b5ea3/github-contribution-grid-snake-sissa.svg#gh-dark-mode-only)
-![github contribution grid snake animation](https://raw.githubusercontent.com/itsmeshibintmz/itsmeshibintmz/8c4c442a1c6a6c7b963e5d473e5aec52c42b5ea3/github-contribution-grid-snake-sissa-white.svg#gh-light-mode-only)
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=jhensimanel&label=Profile%20views&color=blueviolet&style=flat" alt="Jhens Imanel" /> </p>
