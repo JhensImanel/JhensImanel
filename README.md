@@ -26,7 +26,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Bachelor's+Systems+Enginnering;Tech%20Enthusiast;Cafephile;Always%20learning%20new%20things;Evolving&center=true&width=500&height=50"></a>
 </p>
 
-Hi, I'm [Jhens Imanel](https://github.com/JhensImanel), a passionate self-taught web developer and tech enthusiast from India. My passion for software lies in dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
+Hi, I'm [Jhens Imanel](https://github.com/JhensImanel), a passionate self-taught web developer and tech enthusiast from Peri. My passion for software lies in dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
 
 I'm 24 years old and graduated with a degree in Bachelor of Computer Applications at [University Technological of Peru](https://www.sgcaruvithura.ac.in/public/course-details.html?id=bkVDd0pXUEdHTVc5V1RlVk9vSG80dz09"). 
 
@@ -42,42 +42,46 @@ I'm also an open-source enthusiast. I learned a lot from the open-source communi
 
 <img align="right" width="50px" src="https://github.com/itsmeshibintmz/itsmeshibintmz/blob/main/icons/tcs.svg" />
 
-- 📖 **&nbsp;Graduate Trainee**\
-📆 &nbsp;2021-Present\
-📍 **&nbsp;Tata Consultancy Services** - Infopark, Kochi, Kerala
+- 📖 **&nbsp;Front End Developer Jr.**\
+📆 &nbsp;2024-Present\
+📍 **&nbsp;Devdatep Consulting** - Lima, Peru
 
 <img align="right" width="50px" src="https://github.com/itsmeshibintmz/itsmeshibintmz/blob/main/icons/ifix.webp" />
 
-- 📖 **&nbsp;Customer Service Assistant**\
-📆 &nbsp;2021-2021\
-📍 **&nbsp;Ifix Computers** - Palai, Kerala
+- 📖 **&nbsp;Trainee Program**\
+📆 &nbsp;2024-2024\
+📍 **&nbsp;Synopsis S.A.** - Lima, Peru
+
+- 📖 **&nbsp;Trainee Angular**\
+📆 &nbsp;2023-2023\
+📍 **&nbsp;Sixth System** - Lima, Peru
 ## Education
 
 <img align="right" width="50px" src="https://github.com/itsmeshibintmz/itsmeshibintmz/blob/main/icons/sgc.png" />
 
-- 📖 **&nbsp;Bachelor of Computer Application**\
-📆 &nbsp;2018 - 2021\
-📍 **&nbsp;St.George's College Aruvithura** - Aruvithura, Kottayam, Kerala
+- 📖 **&nbsp;Bachelor of Systems and Informatic**\
+📆 &nbsp;2018 - 2023\
+📍 **&nbsp;University Technology of Peru** - Lima, Peru
 
 <img align="right" width="50px" src="https://github.com/itsmeshibintmz/itsmeshibintmz/blob/main/icons/cms.png" />
 
-- 📖 **&nbsp;Plus Two Science**\
-📆 2015 - 2017\
-📍 **CMS HSS Melukavu** - Melukavu, Kottayam, Kerala
+- 📖 **&nbsp;Back End Developer Program**\
+📆 &nbsp;2024 - 2024\
+📍 **IDAT** - Lima, Peru
 
 <img align="right" width="50px" src="https://github.com/itsmeshibintmz/itsmeshibintmz/blob/main/icons/ihrd.png" />
 
-- 📖 **&nbsp;THSLC**\
-📆 &nbsp;2012 - 2015\
-📍 **&nbsp;Technical Higher Secondary School** - Muttom, Kerala
+- 📖 **&nbsp;English Intermediate**\
+📆 &nbsp;2023 - Present\
+📍 **&nbsp;ICPNA** - Lima, Peru
 
 ## Volunteering
 
 <img align="right" width="50px" src="https://github.com/itsmeshibintmz/itsmeshibintmz/blob/main/icons/palliative.webp" />
 
 - 👨‍💻 **&nbsp;Volunteer**\
-📆 &nbsp;2017 - 2018\
-📍 **&nbsp;Palliative Care Unit** - St.Joseph's College Arakulam, Kerala
+📆 &nbsp; 2024\
+📍 **&nbsp;CC.FF.AA.** - Lima, Peru
 ## Personal Projects
   
 - [Admission Applicant System](https://github.com/itsmeshibintmz/Admission-Applicant-System) <img align='right' src="https://img.shields.io/badge/css3-%231572B6.svg?style&logo=css3&logoColor=white"><img align='right' src="https://camo.githubusercontent.com/3bf2737f46ffd3c1057512ceb089758416ae555a83458a422ad23bc8f4ddbe7c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f48544d4c352d4533344632363f7374796c65266c6f676f3d68746d6c35266c6f676f436f6c6f723d7768697465?style&logo=Node.js&logoColor=fffff"><img align='right' src="https://img.shields.io/badge/mysql-%2300f.svg?style&logo=mysql&logoColor=white"><img align='right' src="https://img.shields.io/badge/-Java-important?style&logo=Java&logoColor=white">
