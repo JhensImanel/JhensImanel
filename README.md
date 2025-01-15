@@ -2,33 +2,18 @@
 
 [![Linkedin](https://img.shields.io/static/v1?label=&message=Linkedin&color=0E7FBF&&&style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jhensimanel/)
 
-🔗 &nbsp;**Connect with me**
-<p align="left">
-<a href="https://www.instagram.com/jamesimanel/">
-  <img align="left" alt="Shibin's Instagram" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" />
-</a>
-<a href="https://open.spotify.com/user/5pr9jkevcanoqdrhacx1ud22l?si=d917260486a94cc1">
-  <img align="left" alt="Shibin's Spotify" width="22px" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/spotify.svg" />
-</a>
-<a href="https://steamcommunity.com/id/76561297967854696/home/"> 
-  <img align="left" alt="Steam" width="22px" src="https://github.com/itsmeshibintmz/itsmeshibintmz/blob/main/icons/steam-icon-14883.png" />
-</a>
-
-<br />
-</h1>
-
-<p align='center'><em><b>Coming together is a beginning; keeping together is progress; working together is success.</b></em>
-<br/>
- <em><b>- Henry Ford</b></em>
-<br><br/>
-
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Bachelor's+Systems+Enginnering;Tech%20Enthusiast;Cafephile;Always%20learning%20new%20things;Evolving&center=true&width=500&height=50"></a>
 </p>
+<p align='center'><em><b>"Talk is cheap. Show me the code"</b></em>
+<br/>
+ <em><b>- Linus Torvalds</b></em>
+<br><br/>
 
+## About Me
 Hi, I'm [Jhens Imanel](https://github.com/JhensImanel), a passionate self-taught web developer and tech enthusiast from Peri. My passion for software lies in dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
 
-I'm 24 years old and graduated with a degree in Bachelor of Computer Applications at [University Technological of Peru](https://www.sgcaruvithura.ac.in/public/course-details.html?id=bkVDd0pXUEdHTVc5V1RlVk9vSG80dz09"). 
+I'm 25 years old and graduated with a degree in Bachelor of Systems and Informatic at [University Technological of Peru](https://www.sgcaruvithura.ac.in/public/course-details.html?id=bkVDd0pXUEdHTVc5V1RlVk9vSG80dz09"). 
 
 I'm also an open-source enthusiast. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
               
@@ -40,13 +25,13 @@ I'm also an open-source enthusiast. I learned a lot from the open-source communi
 
 ## Work Experience
 
-<img align="right" width="50px" src="https://github.com/itsmeshibintmz/itsmeshibintmz/blob/main/icons/tcs.svg" />
+<img align="right" width="50px" src="https://github.com/jhensimanel/jhensimanel/blob/main/icons/tcs.svg" />
 
 - 📖 **&nbsp;Front End Developer Jr.**\
 📆 &nbsp;2024-Present\
 📍 **&nbsp;Devdatep Consulting** - Lima, Peru
 
-<img align="right" width="50px" src="https://github.com/itsmeshibintmz/itsmeshibintmz/blob/main/icons/ifix.webp" />
+<img align="right" width="50px" src="https://github.com/jhensimanel/jhensimanel/blob/main/icons/ifix.webp" />
 
 - 📖 **&nbsp;Trainee Program**\
 📆 &nbsp;2024-2024\
@@ -57,19 +42,19 @@ I'm also an open-source enthusiast. I learned a lot from the open-source communi
 📍 **&nbsp;Sixth System** - Lima, Peru
 ## Education
 
-<img align="right" width="50px" src="https://github.com/itsmeshibintmz/itsmeshibintmz/blob/main/icons/sgc.png" />
+<img align="right" width="50px" src="https://github.com/jhensimanel/jhensimanel/blob/main/icons/sgc.png" />
 
 - 📖 **&nbsp;Bachelor of Systems and Informatic**\
 📆 &nbsp;2018 - 2023\
-📍 **&nbsp;University Technology of Peru** - Lima, Peru
+📍 **&nbsp;University Technology of Peru S.A.C.** - Lima, Peru
 
-<img align="right" width="50px" src="https://github.com/itsmeshibintmz/itsmeshibintmz/blob/main/icons/cms.png" />
+<img align="right" width="50px" src="https://github.com/jhensimanel/jhensimanel/blob/main/icons/cms.png" />
 
 - 📖 **&nbsp;Back End Developer Program**\
 📆 &nbsp;2024 - 2024\
 📍 **IDAT** - Lima, Peru
 
-<img align="right" width="50px" src="https://github.com/itsmeshibintmz/itsmeshibintmz/blob/main/icons/ihrd.png" />
+<img align="right" width="50px" src="https://github.com/jhensimanel/jhensimanel/blob/main/icons/ihrd.png" />
 
 - 📖 **&nbsp;English Intermediate**\
 📆 &nbsp;2023 - Present\
@@ -77,7 +62,7 @@ I'm also an open-source enthusiast. I learned a lot from the open-source communi
 
 ## Volunteering
 
-<img align="right" width="50px" src="https://github.com/itsmeshibintmz/itsmeshibintmz/blob/main/icons/palliative.webp" />
+<img align="right" width="50px" src="https://github.com/jhensimanel/jhensimanel/blob/main/icons/palliative.webp" />
 
 - 👨‍💻 **&nbsp;Volunteer**\
 📆 &nbsp; 2024\
@@ -131,45 +116,16 @@ I'm also an open-source enthusiast. I learned a lot from the open-source communi
   <img alt="ssd" src="https://img.shields.io/badge/930%20GB%20SSD-grey?style=for-the-badge" />
   <img alt="hdd" src="https://img.shields.io/badge/931%20GB%20HDD-grey?style=for-the-badge" />
 </p>
-
-<p align='center'>
-  ⚙️ &nbsp;Softwares I'm Familiar with :<br><br>
-<img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" />
-<img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
-<img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
-
-<img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black" />
-<img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=black" />
-<img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" />
-</p>
-
-📊 **&nbsp;this week i spent my time on:** 
-
-<!--START_SECTION:waka-->
-
-```text
-Markdown   1 hr 52 mins    ████████████████████▓░░░░   82.32 %
-YAML       24 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.68 %
-```
-
-<!--END_SECTION:waka-->
-
-### :muscle: &nbsp;Things I'm currently challenging myself with:
-- Code exercises everyday!
-- Trying to wake up earlier to make good use of the day
-
+<br></br>
 📈 &nbsp; My Github Stats
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=itsmeshibintmz&theme=darkhub&margin-w=15&margin-h=15&coloumn=3&row=1" alt="itsmeshibintmz" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jhensimanel&theme=darkhub&margin-w=15&margin-h=15&coloumn=3&row=1" alt="jhensimanel" /></a> </p>
 
-<p> <img src="https://github-readme-stats-itsmeshibintmz.vercel.app/api?username=itsmeshibintmz&show_icons=true&&line_height=25&width=20&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=000000" alt="shibinthomas" /> 
+<p> <img src="https://github-readme-stats-jhensimanel.vercel.app/api?username=jhensimanel&show_icons=true&&line_height=25&width=20&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=000000" alt="jhensimanel" /> 
 
-<a href="http://www.github.com/itsmeshibintmz"><img src="https://github-readme-streak-stats.herokuapp.com/?user=itsmeshibintmz&stroke=ffffff&background=000000&ring=0891b2&fire=FF0000&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=false" /></a>
-
-  
 ## Contribution Graph
 <br/>
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/itsmeshibintmz/itsmeshibintmz/8c4c442a1c6a6c7b963e5d473e5aec52c42b5ea3/github-contribution-grid-snake-sissa.svg#gh-dark-mode-only)
 ![github contribution grid snake animation](https://raw.githubusercontent.com/itsmeshibintmz/itsmeshibintmz/8c4c442a1c6a6c7b963e5d473e5aec52c42b5ea3/github-contribution-grid-snake-sissa-white.svg#gh-light-mode-only)
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=itsmeshibintmz&label=Profile%20views&color=blueviolet&style=flat" alt="Shibin Thomas" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=jhensimanel&label=Profile%20views&color=blueviolet&style=flat" alt="Shibin Thomas" /> </p>
