@@ -17,13 +17,13 @@
 <br>
 
 ## 🧑‍💻 About Me
-Hi, I'm [Jhens Imanel](https://github.com/JhensImanel), a passionate self-taught web developer and tech enthusiast from Peri. My passion for software lies in dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
+Hi, I'm [Jhens Imanel](https://github.com/JhensImanel), a passionate self-taught web developer and tech enthusiast from Peru. My passion for software lies in dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
 
-I'm 25 years old and graduated with a degree in Bachelor of Systems and Informatic at [University Technological of Peru](https://www.sgcaruvithura.ac.in/public/course-details.html?id=bkVDd0pXUEdHTVc5V1RlVk9vSG80dz09"). 
+I'm 25 years old and graduated with a degree in Bachelor of Systems and Informatic at [University Technological of Peru](https://drive.google.com/file/d/1tho8jEkUqCv4giEYgEc1Ma1QsPe_4kAw/view?usp=sharing"). 
 
 I'm also an open-source enthusiast. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
               
-- 💬 &nbsp; any freelance work? do reach,  :) 
+- 💬&nbsp;Any freelance work? do reach , [e-mail](https://mail.google.com/mail/?view=cm&fs=1&to=jamesimanel")🖖 
 
 <details>
   <summary>📃 &nbsp;Resume</summary>
