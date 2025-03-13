@@ -1,10 +1,6 @@
 # Hi, I'm Jhens <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width=25> 
 
 [![LinkedIn](https://img.shields.io/static/v1?label=&message=LinkedIn&color=0A66C2&style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jhensimanel/)
-[![Facebook](https://img.shields.io/static/v1?label=&message=Facebook&color=1877F2&style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/jhens.imanel/)
-[![YouTube](https://img.shields.io/static/v1?label=&message=YouTube&color=FF0000&style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/@jamesimanel2204)
-[![Instagram](https://img.shields.io/static/v1?label=&message=Instagram&color=E4405F&style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/jamesimanel/)
-[![Twitch](https://img.shields.io/static/v1?label=&message=Twitch&color=9146FF&style=flat&logo=twitch&logoColor=white)](https://www.twitch.tv/xaoc72)
 [![Spotify](https://img.shields.io/static/v1?label=&message=Spotify&color=1DB954&style=flat&logo=spotify&logoColor=white)](https://open.spotify.com/user/5pr9jkevcanoqdrhacx1ud22l?si=23b3fa3a8971434f)
 
 
