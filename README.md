@@ -1,4 +1,4 @@
-# Hi, I'm Jhens <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width=25> 
+# Hi, I'm Jhens Imanel <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width=25> 
 
 [![LinkedIn](https://img.shields.io/static/v1?label=&message=LinkedIn&color=0A66C2&style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jhensimanel/)
 [![Spotify](https://img.shields.io/static/v1?label=&message=Spotify&color=1DB954&style=flat&logo=spotify&logoColor=white)](https://open.spotify.com/user/5pr9jkevcanoqdrhacx1ud22l?si=23b3fa3a8971434f)
