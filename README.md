@@ -1,8 +1,3 @@
-# Hi, I'm Jhens Imanel <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width=25> 
-
-[![LinkedIn](https://img.shields.io/static/v1?label=&message=LinkedIn&color=0A66C2&style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jhensimanel/)
-[![Spotify](https://img.shields.io/static/v1?label=&message=Spotify&color=1DB954&style=flat&logo=spotify&logoColor=white)](https://open.spotify.com/user/5pr9jkevcanoqdrhacx1ud22l?si=23b3fa3a8971434f)
-
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Bachelor's+Systems+Enginnering;Front%20End%20Developer;Always%20learning%20new%20things;&center=true&width=500&height=50"></a>
@@ -12,14 +7,22 @@
  <em><b>- Charles Dickens</b></em>
 <br>
 
-## 🧑‍💻 About Me
-Passionate self-taught web developer and tech enthusiast. My passion for software lies in dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
-
-I'm 25 years old and graduated with a degree in Bachelor of Systems and Informatic at [University Technological of Peru](https://drive.google.com/file/d/1tho8jEkUqCv4giEYgEc1Ma1QsPe_4kAw/view?usp=sharing"). 
-
-I'm also an open-source enthusiast. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
-              
-- 💬&nbsp;Any freelance work? do reach , <span align="center"> [e-mail](https://mail.google.com/mail/?view=cm&fs=1&to=u18310128@gmail.com) <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNG0xdmF3d3ludnk5cnlvY2doYTJna21pemx5ZDJnbjBjcHNjd2poZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/hCyE7Wn379nVeL40le/giphy.gif" height=14 width=40> </span>
+# 💫 About Me
+🧑‍💻 Passionate self-taught web developer and tech enthusiast.
+<br>
+🌱 My passion for software lies in dreaming up ideas and making them come true with elegant interfaces.
+<br>
+⚡ I take great care in the experience, architecture, and code quality of the things I build.
+<br>
+👋 I'm 25 years old and graduated with a degree in Bachelor of Systems and Informatic at UTP.
+<br>
+🚀 I'm also an open-source enthusiast. 
+<br>
+👀 I learned a lot from the open-source community.
+<br>
+💬 I love how collaboration and knowledge sharing happened through open-source.
+<br>              
+📫&nbsp;Any freelance work? do reach , <span align="center"> [e-mail](https://mail.google.com/mail/?view=cm&fs=1&to=u18310128@gmail.com) <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNG0xdmF3d3ludnk5cnlvY2doYTJna21pemx5ZDJnbjBjcHNjd2poZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/hCyE7Wn379nVeL40le/giphy.gif" height=14 width=40> </span>
 
 <details>
   <summary>📃 &nbsp;Resume</summary>
@@ -79,16 +82,20 @@ I'm also an open-source enthusiast. I learned a lot from the open-source communi
 📍 **&nbsp;CC.FF.AA.** - Lima, Peru
 </details>
 
+# 🌐 Socials:
+
+[![LinkedIn](https://img.shields.io/static/v1?label=&message=LinkedIn&color=0A66C2&style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jhensimanel/)
+[![Spotify](https://img.shields.io/static/v1?label=&message=Spotify&color=1DB954&style=flat&logo=spotify&logoColor=white)](https://open.spotify.com/user/5pr9jkevcanoqdrhacx1ud22l?si=23b3fa3a8971434f)
+
 # 🛠 **&nbsp;Languages and tools:** 
 
 <p align='center'>
   💻 &nbsp;My workspace<br/><br/>
-  <img alt="os" src="https://img.shields.io/badge/Windows_11-HP_Probook_450_G5-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
-  <img alt="soc" src="https://img.shields.io/badge/Intel-Core_i7-0071C5?style=for-the-badge&logo=intel&logoColor=white" />
-  <img alt="ram" src="https://img.shields.io/badge/RAM-16GB-%230071C5.svg?&style=for-the-badge&logoColor=white" />
-  <img alt="graphics" src="https://img.shields.io/badge/NVIDIA-930MX-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
-  <img alt="ssd" src="https://img.shields.io/badge/930%20GB%20SSD-grey?style=for-the-badge" />
-  <img alt="hdd" src="https://img.shields.io/badge/931%20GB%20HDD-grey?style=for-the-badge" />
+  <img alt="os" src="https://img.shields.io/badge/Ryzen-A520M K V2-FEC580?style=for-the-badge&logo=amd&logoColor=white" />
+  <img alt="soc" src="https://img.shields.io/badge/Ryzen-5 5600GT-DF0836?style=for-the-badge&logo=amd&logoColor=white" />
+  <img alt="ram" src="https://img.shields.io/badge/RAM-32GB-%230071C5.svg?&style=for-the-badge&logoColor=white" />
+  <img alt="graphics" src="https://img.shields.io/badge/NVIDIA-3060 TI-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
+  <img alt="ssd" src="https://img.shields.io/badge/1%20TB%20SSD-grey?style=for-the-badge" />
 </p>
 <br>
 
