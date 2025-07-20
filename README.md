@@ -16,9 +16,7 @@
 <br>
 👋 I'm 25 years old and graduated with a degree in Bachelor of Systems and Informatic at UTP.
 <br>
-🚀 I'm also an open-source enthusiast. 
-<br>
-👀 I learned a lot from the open-source community.
+🚀 I learned a lot from the open-source community.
 <br>
 💬 I love how collaboration and knowledge sharing happened through open-source.
 <br>              
