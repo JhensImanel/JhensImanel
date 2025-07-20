@@ -10,15 +10,15 @@
 # 💫 About Me
 🧑‍💻 Passionate self-taught web developer and tech enthusiast.
 <br>
-🌱 My passion for software lies in dreaming up ideas and making them come true with elegant interfaces.
+👋 Graduated with a Bachelor’s degree in Systems and Informatics from UTP.
 <br>
-⚡ Take great care in the experience, architecture, and code quality of the things I build.
+🌱 I’m driven by a passion for software — I love dreaming up ideas and turning them into reality through elegant interfaces.
 <br>
-👋 Graduated with a degree in Bachelor of Systems and Informatic at UTP.
+⚡ I place strong emphasis on user experience, architecture, and code quality in everything I build.
 <br>
-🚀 Learned a lot from the open-source community.
+🚀 I’ve learned a lot from the open-source community.
 <br>
-💬 Love how collaboration and knowledge sharing happened through open-source.
+💬 I truly enjoy how collaboration and knowledge sharing happen through open-source.
 <br>              
 📫&nbsp;Any freelance work? do reach , <span align="center"> [e-mail](https://mail.google.com/mail/?view=cm&fs=1&to=u18310128@gmail.com) <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNG0xdmF3d3ludnk5cnlvY2doYTJna21pemx5ZDJnbjBjcHNjd2poZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/hCyE7Wn379nVeL40le/giphy.gif" height=14 width=40> </span>
 
