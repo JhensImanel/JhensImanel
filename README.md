@@ -12,13 +12,13 @@
 <br>
 🌱 My passion for software lies in dreaming up ideas and making them come true with elegant interfaces.
 <br>
-⚡ I take great care in the experience, architecture, and code quality of the things I build.
+⚡ Take great care in the experience, architecture, and code quality of the things I build.
 <br>
-👋 I'm 25 years old and graduated with a degree in Bachelor of Systems and Informatic at UTP.
+👋 Graduated with a degree in Bachelor of Systems and Informatic at UTP.
 <br>
-🚀 I learned a lot from the open-source community.
+🚀 Learned a lot from the open-source community.
 <br>
-💬 I love how collaboration and knowledge sharing happened through open-source.
+💬 Love how collaboration and knowledge sharing happened through open-source.
 <br>              
 📫&nbsp;Any freelance work? do reach , <span align="center"> [e-mail](https://mail.google.com/mail/?view=cm&fs=1&to=u18310128@gmail.com) <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNG0xdmF3d3ludnk5cnlvY2doYTJna21pemx5ZDJnbjBjcHNjd2poZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/hCyE7Wn379nVeL40le/giphy.gif" height=14 width=40> </span>
 
